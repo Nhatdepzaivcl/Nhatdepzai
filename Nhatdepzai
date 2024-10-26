@@ -1,6 +1,6 @@
 Config = {
     namescript = "Nhatdepzaivcl",
-    logoscript = "117390141608083",
+    logoscript = "101749349170916",
     tacgia = "Nhatdepzai"
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
